@@ -1,0 +1,11 @@
+#include "PuntoVectorModularizado.h"
+
+PuntoVectorModularizado::PuntoVectorModularizado()
+{
+    //ctor
+}
+
+PuntoVectorModularizado::~PuntoVectorModularizado()
+{
+    //dtor
+}
