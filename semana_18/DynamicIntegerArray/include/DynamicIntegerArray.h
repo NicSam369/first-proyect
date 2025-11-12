@@ -7,6 +7,7 @@ class DynamicIntegerArray
     public:
         DynamicIntegerArray();
         DynamicIntegerArray(int arr[], int sizeArray);
+        DynamicIntegerArray(DynamicIntegerArray &o);
 
         int getSize() const;
         void print() const;
@@ -21,5 +22,6 @@ class DynamicIntegerArray
         int *data;
         int sizeArray;
 };
+
 
 #endif // DYNAMICINTEGERARRAY_H

@@ -1,5 +1,4 @@
 #include "DynamicIntegerArray.h"
-#include <iostream>
 
 DynamicIntegerArray::DynamicIntegerArray()
 {
@@ -12,6 +11,15 @@ DynamicIntegerArray::DynamicIntegerArray(int arr[], int sizeArray){
     this -> data = new int [sizeArray];
     for(int i=0; i< sizeArray; i++){
         this -> data[i]= arr[i];
+    }
+}
+
+DynamicIntegerArray::DynamicIntegerArray(DynamicIntegerArray &o)
+{
+    this ->sizeArray= o.sizeArray;
+    this->data= new int[sizeArray];
+    for(int i=0; i< sizeArray; i++){
+        this ->data[i]= o.data[i];
     }
 }
 
@@ -37,32 +45,6 @@ void DynamicIntegerArray::pushback(int val){
     delete [] data;
     this ->data = tmp;
 }
-
-void DynamicIntegerArray::insert_(int val, int pos){
-    /**
-    FALTA CODIGO
-    */
-    tmp[pos]=val;
-    sizeArray++;
-    delete [] data;
-    this->data=tmp;
-}
-
-void DynamicIntegerArray::remove_(int pos){
-    int *tmp= new inr[sizeArray-1];
-    fot(int i =0; i < pos; i++){
-        tmp[i]= this ->data[i];
-    }
-    for(int i=pos; i< sizeArray;i++){
-        tmp[i]=this->data[i+1];
-    }
-    sizeArray--;
-    delete[] data;
-    this ->data = tmp;
-
-
-}
-
 
 DynamicIntegerArray::~DynamicIntegerArray()
 {
