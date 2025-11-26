@@ -1,0 +1,390 @@
+# depslib dependency file v1.0
+1762486476 source:d:\code\github\usuario\main.cpp
+	<iostream>
+	"Usuario.h"
+
+1762486037 source:d:\code\github\usuario\src\string_.cpp
+	"String_.h"
+	<iostream>
+
+1762484043 d:\code\github\usuario\include\string_.h
+
+1762484804 source:d:\code\github\usuario\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+
+1762486467 d:\code\github\usuario\include\usuario.h
+	"String_.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cuenta.h"
+	"GestorDeArchivos.h"
+	"CrediBanco.h"
+	"UsuarioNormal.h"
+	"Transaccion.h"
+	"TransaccionDeposito.h"
+	"TransaccionPrestamo.h"
+	"TransaccionRetiro.h"
+	"UsuarioPreferencial.h"
+	"UsuarioPremium.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\usuario.h
+	"String_.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\string_.h
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\string_.cpp
+	"String_.h"
+	<iostream>
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+
+1763964803 source:d:\code\github\proyectofinal\clases\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cuenta.h"
+	"GestorDeArchivos.h"
+	"CrediBanco.h"
+	"UsuarioNormal.h"
+
+1763950367 d:\code\github\proyectofinal\clases\include\usuario.h
+	"String_.h"
+
+1763951612 d:\code\github\proyectofinal\clases\include\string_.h
+
+1763951042 source:d:\code\github\proyectofinal\clases\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+
+1763951612 source:d:\code\github\proyectofinal\clases\src\string_.cpp
+	"String_.h"
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\cuenta.h
+	"String_.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\gestordearchivos.cpp
+	"GestorDeArchivos.h"
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\gestordearchivos.h
+	"Usuario.h"
+
+1763953731 d:\code\github\proyectofinal\clases\include\cuenta.h
+	"String_.h"
+
+1763935341 d:\code\github\proyectofinal\clases\include\gestordearchivos.h
+	"Usuario.h"
+
+1763935341 source:d:\code\github\proyectofinal\clases\src\gestordearchivos.cpp
+	"GestorDeArchivos.h"
+	<iostream>
+
+1763950333 source:d:\code\github\proyectofinal\clases\src\usuariopremium.cpp
+	"UsuarioPremium.h"
+
+1763950333 d:\code\github\proyectofinal\clases\include\usuariopremium.h
+	"Usuario.h"
+
+1763950333 source:d:\code\github\proyectofinal\clases\src\usuarionormal.cpp
+	"UsuarioNormal.h"
+
+1763950333 d:\code\github\proyectofinal\clases\include\usuarionormal.h
+	"Usuario.h"
+
+1763950333 source:d:\code\github\proyectofinal\clases\src\usuariopreferencial.cpp
+	"UsuarioPreferencial.h"
+
+1763950333 d:\code\github\proyectofinal\clases\include\usuariopreferencial.h
+	"Usuario.h"
+
+1763964833 d:\code\github\proyectofinal\clases\include\credibanco.h
+	"Listas.h"
+	"Usuario.h"
+	"String_.h"
+
+1763965032 source:d:\code\github\proyectofinal\clases\src\credibanco.cpp
+	<iostream >
+	"CrediBanco.h"
+	<String_.h>
+
+1763953731 source:d:\code\github\proyectofinal\clases\src\cuenta.cpp
+	"Cuenta.h"
+	<iostream>
+
+1763944212 source:d:\code\github\proyectofinal\clases\src\cuentaahorro.cpp
+	"CuentaAhorro.h"
+
+1763944061 d:\code\github\proyectofinal\clases\include\cuentaahorro.h
+	"Cuenta.h"
+
+1763944307 source:d:\code\github\proyectofinal\clases\src\cuentacredito.cpp
+	"CuentaCredito.h"
+
+1763943436 d:\code\github\proyectofinal\clases\include\cuentacredito.h
+	"Cuenta.h"
+
+1763944307 source:d:\code\github\proyectofinal\clases\src\cuentadebito.cpp
+	"CuentaDebito.h"
+
+1763944003 d:\code\github\proyectofinal\clases\include\cuentadebito.h
+	"Cuenta.h"
+
+1763942374 source:d:\code\github\proyectofinal\clases\src\transaccion.cpp
+	"Transaccion.h"
+
+1763943104 d:\code\github\proyectofinal\clases\include\transaccion.h
+	"String_.h"
+
+1763942462 source:d:\code\github\proyectofinal\clases\src\transacciondeposito.cpp
+	"TransaccionDeposito.h"
+
+1763943187 d:\code\github\proyectofinal\clases\include\transacciondeposito.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763942526 source:d:\code\github\proyectofinal\clases\src\transaccionprestamo.cpp
+	"TransaccionPrestamo.h"
+
+1763943245 d:\code\github\proyectofinal\clases\include\transaccionprestamo.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763942561 source:d:\code\github\proyectofinal\clases\src\transaccionretiro.cpp
+	"TransaccionRetiro.h"
+
+1763943281 d:\code\github\proyectofinal\clases\include\transaccionretiro.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763964047 source:d:\code\github\proyectofinal\clases\src\listas.cpp
+	"Listas.h"
+	<iostream>
+
+1763964010 d:\code\github\proyectofinal\clases\include\listas.h
+	"Cuenta.h"
+	"Usuario.h"
+	"Transaccion.h"
+
+1763997008 source:d:\proyectofinal\clases\main.cpp
+	<iostream>
+	"Usuario.h"
+	"Cuenta.h"
+	"GestorDeArchivos.h"
+	"CrediBanco.h"
+	"UsuarioNormal.h"
+	"Transaccion.h"
+	"TransaccionDeposito.h"
+	"TransaccionPrestamo.h"
+	"TransaccionRetiro.h"
+	"UsuarioPreferencial.h"
+	"UsuarioPremium.h"
+
+1763996286 d:\proyectofinal\clases\include\usuario.h
+	"String_.h"
+
+1763996286 d:\proyectofinal\clases\include\string_.h
+
+1763996286 d:\proyectofinal\clases\include\cuenta.h
+	"String_.h"
+
+1763996286 d:\proyectofinal\clases\include\gestordearchivos.h
+	"Usuario.h"
+
+1763996286 d:\proyectofinal\clases\include\credibanco.h
+	"Listas.h"
+	"Usuario.h"
+	"String_.h"
+
+1763996286 d:\proyectofinal\clases\include\listas.h
+	"Cuenta.h"
+	"Usuario.h"
+	"Transaccion.h"
+
+1763996286 d:\proyectofinal\clases\include\transaccion.h
+	<iostream>
+
+1763996286 d:\proyectofinal\clases\include\usuarionormal.h
+	"Usuario.h"
+
+1763996973 source:d:\proyectofinal\clases\src\credibanco.cpp
+	<iostream >
+	"CrediBanco.h"
+	<String_.h>
+
+1763996286 source:d:\proyectofinal\clases\src\cuenta.cpp
+	"Cuenta.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\cuentaahorro.cpp
+	"CuentaAhorro.h"
+
+1763996286 d:\proyectofinal\clases\include\cuentaahorro.h
+	"Cuenta.h"
+
+1763996286 source:d:\proyectofinal\clases\src\cuentacredito.cpp
+	"CuentaCredito.h"
+
+1763996286 d:\proyectofinal\clases\include\cuentacredito.h
+	"Cuenta.h"
+
+1763996286 source:d:\proyectofinal\clases\src\cuentadebito.cpp
+	"CuentaDebito.h"
+
+1763996286 d:\proyectofinal\clases\include\cuentadebito.h
+	"Cuenta.h"
+
+1763996286 source:d:\proyectofinal\clases\src\gestordearchivos.cpp
+	"GestorDeArchivos.h"
+	<iostream>
+
+1763996973 source:d:\proyectofinal\clases\src\listas.cpp
+	"Listas.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\string_.cpp
+	"String_.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\transaccion.cpp
+	"Transaccion.h"
+
+1763996286 source:d:\proyectofinal\clases\src\transacciondeposito.cpp
+	"TransaccionDeposito.h"
+
+1763996690 d:\proyectofinal\clases\include\transacciondeposito.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\transaccionprestamo.cpp
+	"TransaccionPrestamo.h"
+
+1763996286 d:\proyectofinal\clases\include\transaccionprestamo.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\transaccionretiro.cpp
+	"TransaccionRetiro.h"
+
+1763996286 d:\proyectofinal\clases\include\transaccionretiro.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\usuario.cpp
+	"Usuario.h"
+	<iostream>
+
+1763996286 source:d:\proyectofinal\clases\src\usuarionormal.cpp
+	"UsuarioNormal.h"
+
+1763996286 source:d:\proyectofinal\clases\src\usuariopreferencial.cpp
+	"UsuarioPreferencial.h"
+
+1763996286 d:\proyectofinal\clases\include\usuariopreferencial.h
+	"Usuario.h"
+
+1763996286 source:d:\proyectofinal\clases\src\usuariopremium.cpp
+	"UsuarioPremium.h"
+
+1763996286 d:\proyectofinal\clases\include\usuariopremium.h
+	"Usuario.h"
+
+1764162129 d:\ccomp2-2\proyectofinal\clases\include\credibanco.h
+	"Listas.h"
+	"Usuario.h"
+	"String_.h"
+
+1764162014 d:\ccomp2-2\proyectofinal\clases\include\listas.h
+	"Cuenta.h"
+	"Usuario.h"
+	"Transaccion.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\transaccion.h
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\usuarionormal.h
+	"Usuario.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\transacciondeposito.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\transaccionprestamo.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\transaccionretiro.h
+	"Transaccion.h"
+	"String_.h"
+	<iostream>
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\usuariopreferencial.h
+	"Usuario.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\usuariopremium.h
+	"Usuario.h"
+
+1764162155 source:d:\ccomp2-2\proyectofinal\clases\src\credibanco.cpp
+	<iostream >
+	"CrediBanco.h"
+	<String_.h>
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\cuenta.cpp
+	"Cuenta.h"
+	<iostream>
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\cuentaahorro.cpp
+	"CuentaAhorro.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\cuentaahorro.h
+	"Cuenta.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\cuentacredito.cpp
+	"CuentaCredito.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\cuentacredito.h
+	"Cuenta.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\cuentadebito.cpp
+	"CuentaDebito.h"
+
+1764159835 d:\ccomp2-2\proyectofinal\clases\include\cuentadebito.h
+	"Cuenta.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\transaccion.cpp
+	"Transaccion.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\transacciondeposito.cpp
+	"TransaccionDeposito.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\transaccionprestamo.cpp
+	"TransaccionPrestamo.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\transaccionretiro.cpp
+	"TransaccionRetiro.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\usuarionormal.cpp
+	"UsuarioNormal.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\usuariopreferencial.cpp
+	"UsuarioPreferencial.h"
+
+1764159835 source:d:\ccomp2-2\proyectofinal\clases\src\usuariopremium.cpp
+	"UsuarioPremium.h"
+
+1764162572 source:d:\ccomp2-2\proyectofinal\clases\src\listas.cpp
+	"Listas.h"
+	<iostream>
+
